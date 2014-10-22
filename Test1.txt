@@ -1,0 +1,5 @@
+This line is ignored. 4 edges with 3 nodes
+10	20	30
+10	21	30
+11	21	31
+11	22	31
